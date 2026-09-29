@@ -21,6 +21,8 @@ env/
 .ruff_cache/
 .mypy_cache/
 .pytest_cache/
+**/__marimo__/session/
+**/__marimo__/cache/
 
 # Environment variables & secrets
 .env
