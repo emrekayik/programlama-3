@@ -1,10 +1,41 @@
-# Python-generated files
+# Byte-compiled / optimized files
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
 build/
 dist/
 wheels/
-*.egg-info
+*.egg-info/
+*.egg
 
 # Virtual environments
-.venv
+.venv/
+venv/
+ENV/
+env/
+
+# Package managers & tools cache
+.uv/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Environment variables & secrets
+.env
+*.env
+!.env.example
+
+# Operating System files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+
+# IDE and Editor files
+.idea/
+*.swp
+*.swo
+*~
