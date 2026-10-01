@@ -267,4 +267,3 @@ def _(baslangic, bitis, mo, zaman_araligi):
 
 if __name__ == "__main__":
     app.run()
-

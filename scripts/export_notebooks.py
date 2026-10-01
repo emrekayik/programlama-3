@@ -349,7 +349,6 @@ def generate_index_html(notebook_items):
         <header>
             <div class="badge-tag">Interactive Python & Marimo</div>
             <h1>Programlama 3</h1>
-            <p class="subtitle">Ders defterlerini anında açılan statik HTML olarak inceleyin, tarayıcınızda WebAssembly ile canlı çalıştırın veya Jupyter (.ipynb) olarak indirin.</p>
         </header>
 
         <main class="grid">
